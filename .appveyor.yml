@@ -15,6 +15,3 @@ build: off  # отключаем встроенную в appveyor систему
 
 build_script:
   - npm run build   # команда сборки
-
-deploy_script: # скрипт развёртывания
-  - npx push-dir --dir=build --branch=gh-pages --force --verbose
