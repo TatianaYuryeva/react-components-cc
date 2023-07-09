@@ -1,4 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/k4bli7k0342w27a1?svg=true)](https://ci.appveyor.com/project/TatianaYuryeva/react-components-cc)
 
+GitHub Pages https://tatianayuryeva.github.io/react-components-cc/
 
 # Getting Started with Create React App
 
